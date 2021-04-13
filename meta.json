@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://avatars.githubusercontent.com/u/81178322?s=60&v=4",
+        "url_png_logo": "https://avatars.githubusercontent.com/u/81178322?s=400&v=4",
+        "location": “Kaarina, Finland”,
+        "social": {
+            "twitter_handle": “Behemothpool",
+            "telegram_handle": “Behemothpool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": “rakalto”
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": “Kaarina”,
+            "country": “FI”,
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operator, with special interest in sustainable energy“,
+            "server": "Raspberry Pi 4 ready to receive solar energy“,
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e",
+        "1": ""
+      }
+    }
+}
