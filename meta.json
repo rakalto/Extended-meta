@@ -2,21 +2,21 @@
     "info": {
         "url_png_icon_64x64": "https://github.com/rakalto/pikkulogo/blob/12f5eac7bcc5a7eb901329c820c20941181f424c/github_pikkulogo.png",
         "url_png_logo": "https://github.com/rakalto/logo/blob/0d44718b46821126dadb2299e917910181c93bf2/github%20omalogo.png",
-        "location": “Kaarina, Finland”,
+        "location": "Kaarina, Finland”,
         "social": {
-            "twitter_handle": “Behemothpool",
-            "telegram_handle": “Behemothpool",
+            "twitter_handle": "Behemothpool",
+            "telegram_handle": "Behemothpool",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": “rakalto”
+            "github_handle": "rakalto"
         },
         "company": {
             "name": "",
             "addr": "",
-            "city": “Kaarina”,
-            "country": “FI”,
+            "city": "",
+            "country": "",
             "company_id": "",
             "vat_id": ""
         },
