@@ -1,33 +1,34 @@
 {
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://github.com/rakalto/pikkulogo/blob/12f5eac7bcc5a7eb901329c820c20941181f424c/github_pikkulogo.png",
         "url_png_logo": "https://github.com/rakalto/logo/blob/0d44718b46821126dadb2299e917910181c93bf2/github%20omalogo.png",
-        "location": "Kaarina, Finland”,
+        "location": "Kaarina, Finland",
         "social": {
             "twitter_handle": "Behemothpool",
-            "telegram_handle": "Behemothpool",
+            "telegram_handle": "behemothpool",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": "rakalto"
         },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
         "about": {
-            "me": "Single pool operator, with special interest in sustainable energy“,
-            "server": "Raspberry Pi 4 ready to receive solar energy“,
+            "me": "",
+            "server": "Raspberry Pi Hosted at my Home in Kaarina.",
             "company": ""
-        },
+        }
+    },
     "my-pool-ids": {
-        "0": "052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e",
-        "1": ""
-      }
+        "0": "052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 fi",
+                "type": "relay",
+                "key": "3e102749c880a28aa823bdf0b6183ea9"
+            },
+        }
     }
 }
