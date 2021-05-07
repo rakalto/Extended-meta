@@ -1,8 +1,6 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://github.com/rakalto/pikkulogo/blob/12f5eac7bcc5a7eb901329c820c20941181f424c/github_pikkulogo.png",
-        "url_png_logo": "https://github.com/rakalto/logo/blob/0d44718b46821126dadb2299e917910181c93bf2/github%20omalogo.png",
         "location": "Kaarina, Finland",
         "social": {
             "twitter_handle": "Behemothpool",
@@ -11,7 +9,6 @@
         },
         "about": {
             "server": "Raspberry Pi Hosted at my home in Kaarina."
-        }
     },
     "my-pool-ids": {
         "0": "052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e"
@@ -25,4 +22,5 @@
             }
         }
     }
+}
 }
