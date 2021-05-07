@@ -7,16 +7,10 @@
         "social": {
             "twitter_handle": "Behemothpool",
             "telegram_handle": "behemothpool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
             "github_handle": "rakalto"
         },
         "about": {
-            "me": "",
-            "server": "Raspberry Pi Hosted at my Home in Kaarina.",
-            "company": ""
+            "server": "Raspberry Pi Hosted at my home in Kaarina."
         }
     },
     "my-pool-ids": {
@@ -28,7 +22,7 @@
                 "name": "relay 1 fi",
                 "type": "relay",
                 "key": "3e102749c880a28aa823bdf0b6183ea9"
-            },
+            }
         }
     }
 }
